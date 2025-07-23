@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fernandel001
 - 👀 I’m interested in ...FRontEnd Dev
 - 🌱 I’m currently learning ...React JS
-- 💞️ I’m looking to collaborate on ...any prontend projetcs
-
+- 💞️ I’m looking to collaborate on ...any frontend projetcs
+- I am already good with html, css and js
 - 😄 Pronouns: ...He 
 - ⚡ Fun fact: ...First Time using librairies
 
